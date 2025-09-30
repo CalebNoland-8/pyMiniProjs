@@ -18,5 +18,158 @@
         "accountNumber": 724421,
         "accountPassword": "dfadfa",
         "accountBalance": 1323
+    },
+    {
+        "accountNumber": 851607,
+        "accountPassword": "cumFuckerBitch",
+        "accountBalance": 1000
+    },
+    {
+        "accountNumber": 455105,
+        "accountPassword": "testictle",
+        "accountBalance": 1000
+    },
+    {
+        "accountNumber": 153409,
+        "accountPassword": "adfadfdasfdasfads",
+        "accountBalance": 1000
+    },
+    {
+        "accountNumber": 213256,
+        "accountPassword": "ddsssaaa",
+        "accountBalance": 1000
+    },
+    {
+        "accountNumber": 262134,
+        "accountPassword": "fuckyouworkdamnint",
+        "accountBalance": 1000
+    },
+    {
+        "accountNumber": 705287,
+        "accountPassword": "adsfad",
+        "accountBalance": 1000,
+        "fee": 0.02,
+        "maintenance": 50
+    },
+    {
+        "accountNumber": 446789,
+        "accountPassword": "dafasd",
+        "accountBalance": 1000,
+        "fee": 0.02,
+        "maintenance": 50
+    },
+    {
+        "accountNumber": 726787,
+        "accountPassword": "anothertest",
+        "accountBalance": 0,
+        "interestRate": 0.05
+    },
+    {
+        "accountNumber": 382438,
+        "accountPassword": "adafdsafdsf",
+        "accountBalance": 1000,
+        "fee": 0.02,
+        "maintenance": 50
+    },
+    {
+        "accountNumber": 9506460,
+        "accountPassword": "pissassmotherfucker",
+        "accountBalance": 1000,
+        "fee": 0.02,
+        "maintenance": 50
+    },
+    {
+        "accountNumber": 9506460,
+        "accountPassword": "pissassmotherfucker",
+        "accountBalance": 1000,
+        "fee": 0.02,
+        "maintenance": 50
+    },
+    {
+        "accountNumber": 95064601,
+        "accountPassword": "pissassmotherfucker",
+        "accountBalance": 0,
+        "interestRate": 0.05
+    },
+    {
+        "accountNumber": 95064601,
+        "accountPassword": "pissassmotherfucker",
+        "accountBalance": 0,
+        "interestRate": 0.05
+    },
+    {
+        "accountNumber": 95064610,
+        "accountPassword": "pissassmotherfucker",
+        "accountBalance": 0,
+        "riskFactor": "medium"
+    },
+    {
+        "accountNumber": 95064610,
+        "accountPassword": "pissassmotherfucker",
+        "accountBalance": 0,
+        "riskFactor": "medium"
+    },
+    {
+        "accountNumber": 128285,
+        "accountPassword": "anothertest",
+        "checkingAccount": {
+            "accountNumber": 12828500,
+            "accountPassword": "anothertest",
+            "accountBalance": 1000,
+            "fee": 0.02,
+            "maintenance": 50
+        },
+        "savingsAccount": {
+            "accountNumber": 1282851,
+            "accountPassword": "anothertest",
+            "accountBalance": 0,
+            "interestRate": 0.05
+        },
+        "investmentAccount": {
+            "accountNumber": 12828510,
+            "accountPassword": "anothertest",
+            "accountBalance": 0,
+            "riskFactor": "medium"
+        }
+    },
+    {
+        "accountNumber": 669223,
+        "accountPassword": "adfafafasf",
+        "accountBalance": 1000,
+        "checkingAccount": {},
+        "savingsAccount": {},
+        "investmentAccount": {}
+    },
+    {
+        "accountNumber": 716919,
+        "accountPassword": "test12345",
+        "accountBalance": 1000,
+        "checkingAccount": {},
+        "savingsAccount": {},
+        "investmentAccount": {}
+    },
+    {
+        "accountNumber": 645044,
+        "accountPassword": "test2345",
+        "accountBalance": 1000,
+        "checkingAccount": {
+            "accountNumber": 64504400,
+            "accountPassword": "test2345",
+            "accountBalance": 1000,
+            "fee": 0.02,
+            "maintenance": 50
+        },
+        "savingsAccount": {
+            "accountNumber": 64504401,
+            "accountPassword": "test2345",
+            "accountBalance": 0,
+            "interestRate": 0.05
+        },
+        "investmentAccount": {
+            "accountNumber": 64504410,
+            "accountPassword": "test2345",
+            "accountBalance": 0,
+            "riskFactor": "medium"
+        }
     }
 ]
